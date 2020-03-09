@@ -9,7 +9,7 @@ I'll do a list:
 \t* Catnip\n\t* Grass
 """
 
-smelly_cat = """
+smelly_cat = '''
 \\23 \n
 \'23 \n
 \"23 \n
@@ -18,7 +18,7 @@ smelly_cat = """
 \f23 \n
 \r23 \n
 \t23 \n
-"""
+'''
 
 print(tabby_cat)
 print(persian_cat)
